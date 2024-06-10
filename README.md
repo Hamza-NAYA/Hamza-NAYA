@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">An enthusiastic software developer from France, dedicated to mastering backend development.</h3>
 
-- 🔭 I’m currently searchin for **an internship in software development**
+- 🔭 I’m currently searching for **an internship in software development**
 
 - 🌱 I’m currently learning **advanced frameworks and courses such as Spring Boot, Django, and microservices architecture.**
 
