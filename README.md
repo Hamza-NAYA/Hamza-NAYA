@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **backend development projects using Java, Python, or other frameworks. Let's build something amazing together! 😊**
 
-- 🤝 I’m looking for help with **with advanced algorithms and microservices projects.**
+- 🤝 I’m looking for help **with advanced algorithms and microservices projects.**
 
 - ⚡ Fun fact **I originally pursued a career in science before transitioning to software development. Now, I find immense satisfaction in solving complex problems in the tech world.**
 
